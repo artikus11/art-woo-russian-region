@@ -14,6 +14,9 @@
  * WC requires at least: 3.3.0
  * WC tested up to: 3.3.4
  */
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
 add_filter( 'woocommerce_states', 'awrr_states_russia' );
 function awrr_states_russia( $states ) {
 	$states['RU'] = array(
