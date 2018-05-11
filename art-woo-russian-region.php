@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Art WooCommerce Russian Region
- * Plugin URI:        #
+ * Plugin URI:        https://wpruse.ru/?p=2609
  * Description: Плагин под WooCommerce.  Подключает регионы для Россиии в настройках доставки и на страние оформления заказа
  * Version:           1.0
  * Author:            Artem Abramovich
@@ -12,7 +12,7 @@
  * Domain Path:
  *
  * WC requires at least: 3.3.0
- * WC tested up to: 3.3.4
+ * WC tested up to: 3.3.5
  */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
