@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Art WooCommerce Russian Region
  * Plugin URI:        https://wpruse.ru/?p=2609
- * Description: Плагин под WooCommerce.  Подключает регионы для Россиии в настройках доставки и на страние оформления заказа
+ * Description:       Плагин под WooCommerce.  Подключает регионы для России в настройках доставки и на странице оформления заказа
  * Version:           1.0
  * Author:            Artem Abramovich
  * Author URI:        https://wpruse.ru/
